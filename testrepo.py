@@ -1,1 +1,2 @@
-def funcionPatito
+def funcionPatito():
+    print("Hola, soy un patito")
